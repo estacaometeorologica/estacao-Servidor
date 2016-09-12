@@ -1,0 +1,4 @@
+sudo apt-get install librxtx-java
+
+url = http://localhost/meteorologia-api/v1/index.php/submitreading
+auth = 12345678901234567890
