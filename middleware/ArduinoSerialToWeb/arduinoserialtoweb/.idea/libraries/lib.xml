@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-cache-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/RXTXcomm-2.2pre2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fluent-hc-4.2.1 (regis-K46CA).jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ecj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpmime-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/RXTXcomm (regis-K46CA).jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/RXTXcomm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1 (regis-K46CA).jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/RXTXcomm-2.2pre2 (regis-K46CA).jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/fluent-hc-4.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.6 (regis-K46CA).jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jna.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pde.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

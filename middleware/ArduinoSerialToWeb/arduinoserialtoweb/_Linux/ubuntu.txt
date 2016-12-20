@@ -1,0 +1,2 @@
+-nao precisa copiar a biblioteca, basta instalar:
+apt instal librxtx-java

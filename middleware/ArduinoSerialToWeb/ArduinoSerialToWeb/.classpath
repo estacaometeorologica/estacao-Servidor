@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/OneDrive/Faculdade/IFRS/_Projeto Estação Meteorológica/Meteorologia/PortaSerialArduino/lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="D:/OneDrive/Faculdade/IFRS/_Projeto Estação Meteorológica/Meteorologia/PortaSerialArduino/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/OneDrive/Faculdade/IFRS/_Projeto Estação Meteorológica/Meteorologia/PortaSerialArduino/lib/ecj.jar"/>
+	<classpathentry kind="lib" path="D:/OneDrive/Faculdade/IFRS/_Projeto Estação Meteorológica/Meteorologia/PortaSerialArduino/lib/pde.jar"/>
+	<classpathentry kind="lib" path="D:/OneDrive/Faculdade/IFRS/_Projeto Estação Meteorológica/Meteorologia/PortaSerialArduino/lib/core.jar"/>
+	<classpathentry kind="lib" path="D:/OneDrive/Faculdade/IFRS/_Projeto Estação Meteorológica/Meteorologia/PortaSerialArduino/lib/jna.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/OneDrive/Faculdade/IFRS/_Projeto Estação Meteorológica/Meteorologia/PortaSerialArduino/lib/org-json.jar"/>
+	<classpathentry kind="lib" path="lib/RXTXcomm-2.2pre2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
